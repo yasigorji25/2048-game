@@ -1,0 +1,20 @@
+C:\Users\stewara4\source\repos\TwentyFortyEight\TwentyFortyEight\bin\Debug\TwentyFortyEight.exe.config
+C:\Users\stewara4\source\repos\TwentyFortyEight\TwentyFortyEight\bin\Debug\TwentyFortyEight.exe
+C:\Users\stewara4\source\repos\TwentyFortyEight\TwentyFortyEight\bin\Debug\TwentyFortyEight.pdb
+C:\Users\stewara4\source\repos\TwentyFortyEight\TwentyFortyEight\obj\Debug\TwentyFortyEight.csprojResolveAssemblyReference.cache
+C:\Users\stewara4\source\repos\TwentyFortyEight\TwentyFortyEight\obj\Debug\TwentyFortyEight.csproj.CoreCompileInputs.cache
+C:\Users\stewara4\source\repos\TwentyFortyEight\TwentyFortyEight\obj\Debug\TwentyFortyEight.exe
+C:\Users\stewara4\source\repos\TwentyFortyEight\TwentyFortyEight\obj\Debug\TwentyFortyEight.pdb
+D:\2048 assignment\TwentyFortyEight\bin\Debug\TwentyFortyEight.exe.config
+D:\2048 assignment\TwentyFortyEight\obj\Debug\TwentyFortyEight.exe
+D:\2048 assignment\TwentyFortyEight\obj\Debug\TwentyFortyEight.pdb
+D:\2048 assignment\TwentyFortyEight\bin\Debug\TwentyFortyEight.exe
+D:\2048 assignment\TwentyFortyEight\bin\Debug\TwentyFortyEight.pdb
+D:\2048 assignment\TwentyFortyEight\obj\Debug\TwentyFortyEight.csprojResolveAssemblyReference.cache
+C:\Users\duchi\Desktop\2048 assignment\TwentyFortyEight\bin\Debug\TwentyFortyEight.exe.config
+C:\Users\duchi\Desktop\2048 assignment\TwentyFortyEight\bin\Debug\TwentyFortyEight.exe
+C:\Users\duchi\Desktop\2048 assignment\TwentyFortyEight\bin\Debug\TwentyFortyEight.pdb
+C:\Users\duchi\Desktop\2048 assignment\TwentyFortyEight\obj\Debug\TwentyFortyEight.csprojAssemblyReference.cache
+C:\Users\duchi\Desktop\2048 assignment\TwentyFortyEight\obj\Debug\TwentyFortyEight.csproj.CoreCompileInputs.cache
+C:\Users\duchi\Desktop\2048 assignment\TwentyFortyEight\obj\Debug\TwentyFortyEight.exe
+C:\Users\duchi\Desktop\2048 assignment\TwentyFortyEight\obj\Debug\TwentyFortyEight.pdb

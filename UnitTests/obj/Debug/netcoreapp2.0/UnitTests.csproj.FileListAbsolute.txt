@@ -1,0 +1,17 @@
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\TwentyFortyEight.exe
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\TwentyFortyEight.pdb
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\bin\Debug\netcoreapp2.0\TwentyFortyEight.exe.config
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\stewara4\source\repos\TwentyFortyEight\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
